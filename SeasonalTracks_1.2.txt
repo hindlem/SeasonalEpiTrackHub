@@ -8,7 +8,7 @@ visibility dense
 priority 1
 
 track H3K4me3_SP12w_ChIP_rep1
-bigDataUrl https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fgeo%2Fdownload%2F%3Facc%3DGSM4289854%26format%3Dfile%26file%3DGSM4289854_H3K4me3_SP12w_ChIP_rep1.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
+bigDataUrl bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM4289854&format=file&file=GSM4289854_H3K4me3_SP12w_ChIP_rep1.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
 shortLabel H3K4me3 SP 12w ChIP rep1
 longLabel H3K4me3 SP day 84 (12 weeks) ChIP rep1  Ovine Pars tuberalis (GSM4289854)
 type bigWig
