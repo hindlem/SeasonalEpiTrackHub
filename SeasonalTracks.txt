@@ -1,3 +1,8 @@
+track H3K4me3_ChIP
+superTrack on show
+shortLabel ovine_PT_H3K4me3_ChIP
+longLabel H3K4me3 ChIP Ovine Pars tuberalis
+    
 track H3K4me3_SP12w_ChIP_rep1
 bigDataUrl H3K4me3_SP12w_ChIP_rep1.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
 shortLabel H3K4me3 SP 12w ChIP rep1
@@ -6,6 +11,7 @@ type bigWig
 autoScale group
 alwaysZero on
 visibility dense
+parent H3K4me3_ChIP
 
 track H3K4me3_SP12w_ChIP_rep2
 bigDataUrl H3K4me3_SP12w_ChIP_rep2.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
@@ -15,6 +21,7 @@ type bigWig
 autoScale group
 alwaysZero on
 visibility dense
+parent H3K4me3_ChIP
 
 track H3K4me3_LPD1_ChIP_rep1
 bigDataUrl H3K4me3_LPD1_ChIP_rep1.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
@@ -24,6 +31,7 @@ type bigWig
 autoScale group
 alwaysZero on
 visibility dense
+parent H3K4me3_ChIP
 
 track H3K4me3_LPD1_ChIP_rep2
 bigDataUrl H3K4me3_LPD1_ChIP_rep2.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
@@ -33,6 +41,7 @@ type bigWig
 autoScale group
 alwaysZero on
 visibility dense
+parent H3K4me3_ChIP
 
 track H3K4me3_LPD7_ChIP_rep1
 bigDataUrl H3K4me3_LPD7_ChIP_rep1.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
@@ -42,6 +51,7 @@ type bigWig
 autoScale group
 alwaysZero on
 visibility dense
+parent H3K4me3_ChIP
 
 track H3K4me3_LPD7_ChIP_rep2
 bigDataUrl H3K4me3_LPD7_ChIP_rep2.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
@@ -51,6 +61,7 @@ type bigWig
 autoScale group
 alwaysZero on
 visibility dense
+parent H3K4me3_ChIP
 
 track H3K4me3_LPD28_ChIP_rep1
 bigDataUrl H3K4me3_LPD1_ChIP_rep1.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
@@ -60,6 +71,7 @@ type bigWig
 autoScale group
 alwaysZero on
 visibility dense
+parent H3K4me3_ChIP
 
 track H3K4me3_LPD28_ChIP_rep2
 bigDataUrl H3K4me3_LPD1_ChIP_rep2.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
@@ -69,6 +81,7 @@ type bigWig
 autoScale group
 alwaysZero on
 visibility dense
+parent H3K4me3_ChIP
 
 track H3K4me3_LP16w_ChIP_rep1
 bigDataUrl H3K4me3_LP16w_ChIP_rep1.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
@@ -78,6 +91,7 @@ type bigWig
 autoScale group
 alwaysZero on
 visibility dense
+parent H3K4me3_ChIP
 
 track H3K4me3_LP16w_ChIP_rep2
 bigDataUrl H3K4me3_LP16w_ChIP_rep2.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
@@ -87,6 +101,7 @@ type bigWig
 autoScale group
 alwaysZero on
 visibility dense
+parent H3K4me3_ChIP
 
 track H3K4me3_SPD1_ChIP_rep1
 bigDataUrl H3K4me3_SPD1_ChIP_rep1.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
@@ -96,6 +111,7 @@ type bigWig
 autoScale group
 alwaysZero on
 visibility dense
+parent H3K4me3_ChIP
 
 track H3K4me3_SPD1_ChIP_rep2
 bigDataUrl H3K4me3_SPD1_ChIP_rep2.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
@@ -105,6 +121,7 @@ type bigWig
 autoScale group
 alwaysZero on
 visibility dense
+parent H3K4me3_ChIP
 
 track H3K4me3_SPD7_ChIP_rep1
 bigDataUrl H3K4me3_SPD7_ChIP_rep1.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
@@ -114,6 +131,7 @@ type bigWig
 autoScale group
 alwaysZero on
 visibility dense
+parent H3K4me3_ChIP
 
 track H3K4me3_SPD7_ChIP_rep2
 bigDataUrl H3K4me3_SPD7_ChIP_rep2.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
@@ -123,6 +141,7 @@ type bigWig
 autoScale group
 alwaysZero on
 visibility dense
+parent H3K4me3_ChIP
 
 track H3K4me3_SPD28_ChIP_rep1
 bigDataUrl H3K4me3_SPD28_ChIP_rep1.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
@@ -132,6 +151,7 @@ type bigWig
 autoScale group
 alwaysZero on
 visibility dense
+parent H3K4me3_ChIP
 
 track H3K4me3_SPD28_ChIP_rep2
 bigDataUrl H3K4me3_SPD28_ChIP_rep2.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
@@ -141,6 +161,12 @@ type bigWig
 autoScale group
 alwaysZero on
 visibility dense
+parent H3K4me3_ChIP
+
+track CAGE
+superTrack on show
+shortLabel ovine PT CAGE
+longLabel CAGE Ovine Pars tuberalis
 
 track CAGE_SPD84_PT276_plus
 bigDataUrl PT276_SP12.CTSS.normalized.plus.bw
@@ -150,6 +176,7 @@ type bigWig
 autoScale group
 alwaysZero on
 visibility dense
+parent CAGE
 
 track CAGE_SPD84_PT276_minus
 bigDataUrl PT276_SP12.CTSS.normalized.minus.bw
@@ -159,6 +186,7 @@ type bigWig
 autoScale group
 alwaysZero on
 visibility dense
+parent CAGE
 
 track CAGE_LPD84_PT266_plus
 bigDataUrl PT266_LP12.CTSS.normalized.plus.bw
@@ -168,6 +196,7 @@ type bigWig
 autoScale group
 alwaysZero on
 visibility dense
+parent CAGE
 
 track CAGE_LPD84_PT266_minus
 bigDataUrl PT266_LP12.CTSS.normalized.minus.bw
@@ -177,3 +206,4 @@ type bigWig
 autoScale group
 alwaysZero on
 visibility dense
+parent CAGE
