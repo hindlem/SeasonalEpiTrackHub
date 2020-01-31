@@ -1,7 +1,11 @@
+########################################################
 track H3K4me3_ChIP
-superTrack on show
+type bigWig
+compositeTrack on
 shortLabel ovine_PT_H3K4me3_ChIP
 longLabel H3K4me3 ChIP Ovine Pars tuberalis
+visibility dense
+priority 1
     
 track H3K4me3_SP12w_ChIP_rep1
 bigDataUrl H3K4me3_SP12w_ChIP_rep1.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
@@ -163,10 +167,14 @@ alwaysZero on
 visibility dense
 parent H3K4me3_ChIP
 
+########################################################
 track CAGE
-superTrack on show
+type bigWig
+compositeTrack on
 shortLabel ovine PT CAGE
 longLabel CAGE Ovine Pars tuberalis
+visibility dense
+priority 2
 
 track CAGE_SPD84_PT276_plus
 bigDataUrl PT276_SP12.CTSS.normalized.plus.bw
