@@ -113,27 +113,27 @@ visibility dense
 track CAGE_SPD84_PT276_plus
 bigDataUrl PT276_SP12.CTSS.normalized.plus.bw
 shortLabel CAGE+ SP D84 PT PT276
-longLabel CAGE plus strand SP D84 Pars tuberalis PT276
+longLabel CAGE plus strand SP day 84 (12 weeks) Pars tuberalis PT276
 type bigWig
 visibility dense
 
 track CAGE_SPD84_PT276_minus
 bigDataUrl PT276_SP12.CTSS.normalized.minus.bw
 shortLabel CAGE- SP D84 PT PT276
-longLabel CAGE minus strand SP D84 Pars tuberalis PT276
+longLabel CAGE minus strand SP day 84 (12 weeks) Pars tuberalis PT276
 type bigWig
 visibility dense
 
 track CAGE_LPD84_PT266_plus
 bigDataUrl PT266_LP12.CTSS.normalized.plus.bw
 shortLabel CAGE+ LP D84 PT PT266
-longLabel CAGE plus strand LP day 84 Pars tuberalis PT266
+longLabel CAGE plus strand LP day 84 (12 weeks) Pars tuberalis PT266
 type bigWig
 visibility dense
 
 track CAGE_LPD84_PT266_minus
 bigDataUrl PT266_LP12.CTSS.normalized.minus.bw
 shortLabel CAGE- LP D84 PT PT276
-longLabel CAGE minus strand LP day 84 Pars tuberalis PT276
+longLabel CAGE minus strand LP day 84 (12 weeks) Pars tuberalis PT276
 type bigWig
 visibility dense
