@@ -8,7 +8,7 @@ visibility dense
 priority 1
     
 track H3K4me3_SP12w_ChIP_rep1
-bigDataUrl H3K4me3_SP12w_ChIP_rep1.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
+bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM4289854&format=file&file=GSM4289854_H3K4me3_SP12w_ChIP_rep1.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
 shortLabel H3K4me3 SP 12w ChIP rep1
 longLabel H3K4me3 SP day 84 (12 weeks) ChIP rep1  Ovine Pars tuberalis
 type bigWig
@@ -18,7 +18,7 @@ visibility dense
 parent H3K4me3_ChIP
 
 track H3K4me3_SP12w_ChIP_rep2
-bigDataUrl H3K4me3_SP12w_ChIP_rep2.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
+bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM4289854&format=file&file=GSM4289854_H3K4me3_SP12w_ChIP_rep2.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
 shortLabel H3K4me3 SP12w ChIP rep2
 longLabel H3K4me3 SP day 84 (12 weeks) ChIP rep2  Ovine Pars tuberalis
 type bigWig
@@ -28,7 +28,7 @@ visibility dense
 parent H3K4me3_ChIP
 
 track H3K4me3_LPD1_ChIP_rep1
-bigDataUrl H3K4me3_LPD1_ChIP_rep1.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
+bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM4289854&format=file&file=GSM4289854_H3K4me3_LPD1_ChIP_rep1.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
 shortLabel H3K4me3 LP D1 ChIP rep1
 longLabel H3K4me3 LP day 1 ChIP rep1 Ovine Pars tuberalis
 type bigWig
@@ -38,7 +38,7 @@ visibility dense
 parent H3K4me3_ChIP
 
 track H3K4me3_LPD1_ChIP_rep2
-bigDataUrl H3K4me3_LPD1_ChIP_rep2.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
+bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM4289854&format=file&file=GSM4289854_H3K4me3_LPD1_ChIP_rep2.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
 shortLabel H3K4me3 LP D1 ChIP rep2
 longLabel H3K4me3 LP day 1 ChIP rep2 Ovine Pars tuberalis
 type bigWig
@@ -48,7 +48,7 @@ visibility dense
 parent H3K4me3_ChIP
 
 track H3K4me3_LPD7_ChIP_rep1
-bigDataUrl H3K4me3_LPD7_ChIP_rep1.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
+bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM4289854&format=file&file=GSM4289854_H3K4me3_LPD7_ChIP_rep1.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
 shortLabel H3K4me3 LP D7 ChIP rep1
 longLabel H3K4me3 LP Day 7 ChIP rep1 Ovine Pars tuberalis
 type bigWig
@@ -58,7 +58,7 @@ visibility dense
 parent H3K4me3_ChIP
 
 track H3K4me3_LPD7_ChIP_rep2
-bigDataUrl H3K4me3_LPD7_ChIP_rep2.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
+bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM4289854&format=file&file=GSM4289854_H3K4me3_LPD7_ChIP_rep2.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
 shortLabel H3K4me3 LP D7 ChIP rep2
 longLabel H3K4me3 LP Day 7 ChIP rep2 Ovine Pars tuberalis
 type bigWig
@@ -68,7 +68,7 @@ visibility dense
 parent H3K4me3_ChIP
 
 track H3K4me3_LPD28_ChIP_rep1
-bigDataUrl H3K4me3_LPD1_ChIP_rep1.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
+bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM4289854&format=file&file=GSM4289854_H3K4me3_LPD1_ChIP_rep1.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
 shortLabel H3K4me3 LP D1 ChIP rep1
 longLabel H3K4me3 LP Day 1 ChIP rep1 Ovine Pars tuberalis
 type bigWig
@@ -78,7 +78,7 @@ visibility dense
 parent H3K4me3_ChIP
 
 track H3K4me3_LPD28_ChIP_rep2
-bigDataUrl H3K4me3_LPD1_ChIP_rep2.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
+bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM4289854&format=file&file=GSM4289854_H3K4me3_LPD1_ChIP_rep2.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
 shortLabel H3K4me3 LP D1 ChIP rep2
 longLabel H3K4me3 LP Day 1 ChIP rep2 Ovine Pars tuberalis
 type bigWig
@@ -88,7 +88,7 @@ visibility dense
 parent H3K4me3_ChIP
 
 track H3K4me3_LP16w_ChIP_rep1
-bigDataUrl H3K4me3_LP16w_ChIP_rep1.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
+bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM4289854&format=file&file=GSM4289854_H3K4me3_LP16w_ChIP_rep1.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
 shortLabel H3K4me3 LP 16w ChIP rep1
 longLabel H3K4me3 LP day 112 (16 weeks) ChIP rep1 Ovine Pars tuberalis
 type bigWig
@@ -98,7 +98,7 @@ visibility dense
 parent H3K4me3_ChIP
 
 track H3K4me3_LP16w_ChIP_rep2
-bigDataUrl H3K4me3_LP16w_ChIP_rep2.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
+bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM4289854&format=file&file=GSM4289854_H3K4me3_LP16w_ChIP_rep2.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
 shortLabel H3K4me3 LP 16w ChIP rep2
 longLabel H3K4me3 LP day 112 (16 weeks) ChIP rep2 Ovine Pars tuberalis
 type bigWig
@@ -108,7 +108,7 @@ visibility dense
 parent H3K4me3_ChIP
 
 track H3K4me3_SPD1_ChIP_rep1
-bigDataUrl H3K4me3_SPD1_ChIP_rep1.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
+bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM4289854&format=file&file=GSM4289854_H3K4me3_SPD1_ChIP_rep1.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
 shortLabel H3K4me3 SP D1 ChIP rep1
 longLabel H3K4me3 SP day 1 ChIP rep1 Ovine Pars tuberalis
 type bigWig
@@ -118,7 +118,7 @@ visibility dense
 parent H3K4me3_ChIP
 
 track H3K4me3_SPD1_ChIP_rep2
-bigDataUrl H3K4me3_SPD1_ChIP_rep2.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
+bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM4289854&format=file&file=GSM4289854_H3K4me3_SPD1_ChIP_rep2.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
 shortLabel H3K4me3 SP D1 ChIP rep2
 longLabel H3K4me3 SP day 1 ChIP rep2 Ovine Pars tuberalis
 type bigWig
@@ -128,7 +128,7 @@ visibility dense
 parent H3K4me3_ChIP
 
 track H3K4me3_SPD7_ChIP_rep1
-bigDataUrl H3K4me3_SPD7_ChIP_rep1.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
+bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM4289854&format=file&file=GSM4289854_H3K4me3_SPD7_ChIP_rep1.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
 shortLabel H3K4me3 SP D7 ChIP rep1
 longLabel H3K4me3 SP day 7 ChIP rep1 Ovine Pars tuberalis
 type bigWig
@@ -138,7 +138,7 @@ visibility dense
 parent H3K4me3_ChIP
 
 track H3K4me3_SPD7_ChIP_rep2
-bigDataUrl H3K4me3_SPD7_ChIP_rep2.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
+bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM4289854&format=file&file=GSM4289854_H3K4me3_SPD7_ChIP_rep2.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
 shortLabel H3K4me3 SP D7 ChIP rep2
 longLabel H3K4me3 SP day 7 ChIP rep2 Ovine Pars tuberalis 
 type bigWig
@@ -148,7 +148,7 @@ visibility dense
 parent H3K4me3_ChIP
 
 track H3K4me3_SPD28_ChIP_rep1
-bigDataUrl H3K4me3_SPD28_ChIP_rep1.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
+bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM4289854&format=file&file=GSM4289854_H3K4me3_SPD28_ChIP_rep1.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
 shortLabel H3K4me3 SP D28 ChIP rep1
 longLabel H3K4me3 SP day 28 ChIP rep1 Ovine Pars tuberalis 
 type bigWig
@@ -158,7 +158,7 @@ visibility dense
 parent H3K4me3_ChIP
 
 track H3K4me3_SPD28_ChIP_rep2
-bigDataUrl H3K4me3_SPD28_ChIP_rep2.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
+bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM4289854&format=file&file=GSM4289854_H3K4me3_SPD28_ChIP_rep2.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
 shortLabel H3K4me3 SP D28 ChIP rep2
 longLabel H3K4me3 SP day 28 ChIP rep2 Ovine Pars tuberalis 
 type bigWig
