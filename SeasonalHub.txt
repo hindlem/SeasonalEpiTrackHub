@@ -1,6 +1,6 @@
 hub CAGE_and_H3K4me3_ovine_PT
 shortLabel Genome-wide maps of H3K4me3 chromatin state in sheep pars tuberalis
 longLabel Seasonally breeding sheep are a well-established photoperiodic model for the study of neuroendocrine mechanisms underpinning seasonal physiology. Castrate 6-month old males were housed on artificial SP conditions (8hLight:16hDark) for 84 days from 15th October 2014 to 8th January 2015, and then moved to LP (16hLight:8h Dark). Individual cohorts were collected on Days 1, 7, 28, 112 of LP exposure, and remaining animals switched back to SP conditions on Day 112 of LP-exposure (8th May 2015), and sampled on Day 1, 7 and 28. Therefore, both the LP and SP cohorts were similarly pre-conditioned by prior exposure to alternative photoperiods. PT tissue was collected at Zeitgeber times (ZT), where ZT0 marks the onset of light in each photoperiod. ZT4 was chosen as an early light phase time-point. We quantified gene expression by RNA-Seq and H3K4me3 abundance by ChIP-seq against the most recent complete sheep reference genome (Oar_rambouillet_v1.0; 5th published sheep genome) at all time-points. 2 animals pertime-point were selected for ChIP-seq.
-genomesFile ram1.0.txt
+genomesFile https://raw.githubusercontent.com/hindlem/SeasonalEpiTrackHub/master/ram1.0.txt
 email matthew.hindle@roslin.ed.ac.uk
 descriptionUrl https://www.ncbi.nlm.nih.gov/bioproject/PRJNA391103
