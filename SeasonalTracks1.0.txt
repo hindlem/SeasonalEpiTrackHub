@@ -6,11 +6,11 @@ shortLabel ovine_PT_H3K4me3_ChIP
 longLabel H3K4me3 ChIP Ovine Pars tuberalis 1.0
 visibility dense
 priority 1
-    
+
 track H3K4me3_SP12w_ChIP_rep1
 bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM4289854&format=file&file=GSM4289854_H3K4me3_SP12w_ChIP_rep1.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
 shortLabel H3K4me3 SP 12w ChIP rep1
-longLabel H3K4me3 SP day 84 (12 weeks) ChIP rep1  Ovine Pars tuberalis
+longLabel H3K4me3 SP day 84 (12 weeks) ChIP rep1  Ovine Pars tuberalis (GSM4289854)
 type bigWig
 autoScale group
 alwaysZero on
@@ -18,9 +18,9 @@ visibility dense
 parent H3K4me3_ChIP
 
 track H3K4me3_SP12w_ChIP_rep2
-bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM4289854&format=file&file=GSM4289854_H3K4me3_SP12w_ChIP_rep2.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
+bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM4289855&format=file&file=GSM4289855_H3K4me3_SP12w_ChIP_rep2.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
 shortLabel H3K4me3 SP12w ChIP rep2
-longLabel H3K4me3 SP day 84 (12 weeks) ChIP rep2  Ovine Pars tuberalis
+longLabel H3K4me3 SP day 84 (12 weeks) ChIP rep2  Ovine Pars tuberalis (GSM4289855)
 type bigWig
 autoScale group
 alwaysZero on
@@ -28,9 +28,9 @@ visibility dense
 parent H3K4me3_ChIP
 
 track H3K4me3_LPD1_ChIP_rep1
-bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM4289854&format=file&file=GSM4289854_H3K4me3_LPD1_ChIP_rep1.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
+bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM4289856&format=file&file=GSM4289856_H3K4me3_LPD1_ChIP_rep1.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
 shortLabel H3K4me3 LP D1 ChIP rep1
-longLabel H3K4me3 LP day 1 ChIP rep1 Ovine Pars tuberalis
+longLabel H3K4me3 LP day 1 ChIP rep1 Ovine Pars tuberalis (GSM4289856)
 type bigWig
 autoScale group
 alwaysZero on
@@ -38,9 +38,9 @@ visibility dense
 parent H3K4me3_ChIP
 
 track H3K4me3_LPD1_ChIP_rep2
-bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM4289854&format=file&file=GSM4289854_H3K4me3_LPD1_ChIP_rep2.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
+bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM4289857&format=file&file=GSM4289857_H3K4me3_LPD1_ChIP_rep2.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
 shortLabel H3K4me3 LP D1 ChIP rep2
-longLabel H3K4me3 LP day 1 ChIP rep2 Ovine Pars tuberalis
+longLabel H3K4me3 LP day 1 ChIP rep2 Ovine Pars tuberalis (GSM4289857)
 type bigWig
 autoScale group
 alwaysZero on
@@ -48,9 +48,9 @@ visibility dense
 parent H3K4me3_ChIP
 
 track H3K4me3_LPD7_ChIP_rep1
-bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM4289854&format=file&file=GSM4289854_H3K4me3_LPD7_ChIP_rep1.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
+bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM4289858&format=file&file=GSM4289858_H3K4me3_LPD7_ChIP_rep1.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
 shortLabel H3K4me3 LP D7 ChIP rep1
-longLabel H3K4me3 LP Day 7 ChIP rep1 Ovine Pars tuberalis
+longLabel H3K4me3 LP Day 7 ChIP rep1 Ovine Pars tuberalis (GSM4289858)
 type bigWig
 autoScale group
 alwaysZero on
@@ -58,9 +58,9 @@ visibility dense
 parent H3K4me3_ChIP
 
 track H3K4me3_LPD7_ChIP_rep2
-bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM4289854&format=file&file=GSM4289854_H3K4me3_LPD7_ChIP_rep2.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
+bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM4289859&format=file&file=GSM4289859_H3K4me3_LPD7_ChIP_rep2.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
 shortLabel H3K4me3 LP D7 ChIP rep2
-longLabel H3K4me3 LP Day 7 ChIP rep2 Ovine Pars tuberalis
+longLabel H3K4me3 LP Day 7 ChIP rep2 Ovine Pars tuberalis (GSM4289859)
 type bigWig
 autoScale group
 alwaysZero on
@@ -68,9 +68,9 @@ visibility dense
 parent H3K4me3_ChIP
 
 track H3K4me3_LPD28_ChIP_rep1
-bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM4289854&format=file&file=GSM4289854_H3K4me3_LPD1_ChIP_rep1.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
+bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM4289860&format=file&file=GSM4289860_H3K4me3_LPD1_ChIP_rep1.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
 shortLabel H3K4me3 LP D1 ChIP rep1
-longLabel H3K4me3 LP Day 1 ChIP rep1 Ovine Pars tuberalis
+longLabel H3K4me3 LP Day 1 ChIP rep1 Ovine Pars tuberalis (GSM4289860)
 type bigWig
 autoScale group
 alwaysZero on
@@ -78,9 +78,9 @@ visibility dense
 parent H3K4me3_ChIP
 
 track H3K4me3_LPD28_ChIP_rep2
-bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM4289854&format=file&file=GSM4289854_H3K4me3_LPD1_ChIP_rep2.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
+bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM4289861&format=file&file=GSM4289861_H3K4me3_LPD1_ChIP_rep2.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
 shortLabel H3K4me3 LP D1 ChIP rep2
-longLabel H3K4me3 LP Day 1 ChIP rep2 Ovine Pars tuberalis
+longLabel H3K4me3 LP Day 1 ChIP rep2 Ovine Pars tuberalis (GSM4289861)
 type bigWig
 autoScale group
 alwaysZero on
@@ -88,9 +88,9 @@ visibility dense
 parent H3K4me3_ChIP
 
 track H3K4me3_LP16w_ChIP_rep1
-bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM4289854&format=file&file=GSM4289854_H3K4me3_LP16w_ChIP_rep1.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
+bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM4289862&format=file&file=GSM4289862_H3K4me3_LP16w_ChIP_rep1.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
 shortLabel H3K4me3 LP 16w ChIP rep1
-longLabel H3K4me3 LP day 112 (16 weeks) ChIP rep1 Ovine Pars tuberalis
+longLabel H3K4me3 LP day 112 (16 weeks) ChIP rep1 Ovine Pars tuberalis (GSM4289862)
 type bigWig
 autoScale group
 alwaysZero on
@@ -98,9 +98,9 @@ visibility dense
 parent H3K4me3_ChIP
 
 track H3K4me3_LP16w_ChIP_rep2
-bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM4289854&format=file&file=GSM4289854_H3K4me3_LP16w_ChIP_rep2.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
+bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM4289863&format=file&file=GSM4289863_H3K4me3_LP16w_ChIP_rep2.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
 shortLabel H3K4me3 LP 16w ChIP rep2
-longLabel H3K4me3 LP day 112 (16 weeks) ChIP rep2 Ovine Pars tuberalis
+longLabel H3K4me3 LP day 112 (16 weeks) ChIP rep2 Ovine Pars tuberalis (GSM4289863)
 type bigWig
 autoScale group
 alwaysZero on
@@ -108,9 +108,9 @@ visibility dense
 parent H3K4me3_ChIP
 
 track H3K4me3_SPD1_ChIP_rep1
-bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM4289854&format=file&file=GSM4289854_H3K4me3_SPD1_ChIP_rep1.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
+bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM4289864&format=file&file=GSM4289864_H3K4me3_SPD1_ChIP_rep1.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
 shortLabel H3K4me3 SP D1 ChIP rep1
-longLabel H3K4me3 SP day 1 ChIP rep1 Ovine Pars tuberalis
+longLabel H3K4me3 SP day 1 ChIP rep1 Ovine Pars tuberalis (GSM4289864)
 type bigWig
 autoScale group
 alwaysZero on
@@ -118,9 +118,9 @@ visibility dense
 parent H3K4me3_ChIP
 
 track H3K4me3_SPD1_ChIP_rep2
-bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM4289854&format=file&file=GSM4289854_H3K4me3_SPD1_ChIP_rep2.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
+bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM4289865&format=file&file=GSM4289865_H3K4me3_SPD1_ChIP_rep2.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
 shortLabel H3K4me3 SP D1 ChIP rep2
-longLabel H3K4me3 SP day 1 ChIP rep2 Ovine Pars tuberalis
+longLabel H3K4me3 SP day 1 ChIP rep2 Ovine Pars tuberalis (GSM4289865)
 type bigWig
 autoScale group
 alwaysZero on
@@ -128,9 +128,9 @@ visibility dense
 parent H3K4me3_ChIP
 
 track H3K4me3_SPD7_ChIP_rep1
-bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM4289854&format=file&file=GSM4289854_H3K4me3_SPD7_ChIP_rep1.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
+bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM4289866&format=file&file=GSM4289866_H3K4me3_SPD7_ChIP_rep1.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
 shortLabel H3K4me3 SP D7 ChIP rep1
-longLabel H3K4me3 SP day 7 ChIP rep1 Ovine Pars tuberalis
+longLabel H3K4me3 SP day 7 ChIP rep1 Ovine Pars tuberalis (GSM4289866)
 type bigWig
 autoScale group
 alwaysZero on
@@ -138,9 +138,9 @@ visibility dense
 parent H3K4me3_ChIP
 
 track H3K4me3_SPD7_ChIP_rep2
-bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM4289854&format=file&file=GSM4289854_H3K4me3_SPD7_ChIP_rep2.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
+bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM4289867&format=file&file=GSM4289867_H3K4me3_SPD7_ChIP_rep2.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
 shortLabel H3K4me3 SP D7 ChIP rep2
-longLabel H3K4me3 SP day 7 ChIP rep2 Ovine Pars tuberalis 
+longLabel H3K4me3 SP day 7 ChIP rep2 Ovine Pars tuberalis (GSM4289867)
 type bigWig
 autoScale group
 alwaysZero on
@@ -148,9 +148,9 @@ visibility dense
 parent H3K4me3_ChIP
 
 track H3K4me3_SPD28_ChIP_rep1
-bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM4289854&format=file&file=GSM4289854_H3K4me3_SPD28_ChIP_rep1.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
+bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM4289868&format=file&file=GSM4289868_H3K4me3_SPD28_ChIP_rep1.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
 shortLabel H3K4me3 SP D28 ChIP rep1
-longLabel H3K4me3 SP day 28 ChIP rep1 Ovine Pars tuberalis 
+longLabel H3K4me3 SP day 28 ChIP rep1 Ovine Pars tuberalis (GSM4289868)
 type bigWig
 autoScale group
 alwaysZero on
@@ -158,9 +158,9 @@ visibility dense
 parent H3K4me3_ChIP
 
 track H3K4me3_SPD28_ChIP_rep2
-bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM4289854&format=file&file=GSM4289854_H3K4me3_SPD28_ChIP_rep2.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
+bigDataUrl https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM4289869&format=file&file=GSM4289869_H3K4me3_SPD28_ChIP_rep2.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
 shortLabel H3K4me3 SP D28 ChIP rep2
-longLabel H3K4me3 SP day 28 ChIP rep2 Ovine Pars tuberalis 
+longLabel H3K4me3 SP day 28 ChIP rep2 Ovine Pars tuberalis (GSM4289869)
 type bigWig
 autoScale group
 alwaysZero on
