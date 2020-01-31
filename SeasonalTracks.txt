@@ -3,7 +3,7 @@ bigDataUrl H3K4me3_SP12w_ChIP_rep1.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmM
 shortLabel H3K4me3 SP 12w ChIP rep1
 longLabel H3K4me3 SP day 84 (12 weeks) ChIP rep1  Ovine Pars tuberalis
 type bigWig
-autoScale off
+autoScale group
 visibility dense
 
 track H3K4me3_SP12w_ChIP_rep2
@@ -11,7 +11,7 @@ bigDataUrl H3K4me3_SP12w_ChIP_rep2.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmM
 shortLabel H3K4me3 SP12w ChIP rep2
 longLabel H3K4me3 SP day 84 (12 weeks) ChIP rep2  Ovine Pars tuberalis
 type bigWig
-autoScale off
+autoScale group
 visibility dense
 
 track H3K4me3_LPD1_ChIP_rep1
@@ -19,7 +19,7 @@ bigDataUrl H3K4me3_LPD1_ChIP_rep1.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT
 shortLabel H3K4me3 LP D1 ChIP rep1
 longLabel H3K4me3 LP day 1 ChIP rep1 Ovine Pars tuberalis
 type bigWig
-autoScale off
+autoScale group
 visibility dense
 
 track H3K4me3_LPD1_ChIP_rep2
@@ -27,7 +27,7 @@ bigDataUrl H3K4me3_LPD1_ChIP_rep2.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT
 shortLabel H3K4me3 LP D1 ChIP rep2
 longLabel H3K4me3 LP day 1 ChIP rep2 Ovine Pars tuberalis
 type bigWig
-autoScale off
+autoScale group
 visibility dense
 
 track H3K4me3_LPD7_ChIP_rep1
@@ -35,7 +35,7 @@ bigDataUrl H3K4me3_LPD7_ChIP_rep1.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT
 shortLabel H3K4me3 LP D7 ChIP rep1
 longLabel H3K4me3 LP Day 7 ChIP rep1 Ovine Pars tuberalis
 type bigWig
-autoScale off
+autoScale group
 visibility dense
 
 track H3K4me3_LPD7_ChIP_rep2
@@ -43,6 +43,7 @@ bigDataUrl H3K4me3_LPD7_ChIP_rep2.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT
 shortLabel H3K4me3 LP D7 ChIP rep2
 longLabel H3K4me3 LP Day 7 ChIP rep2 Ovine Pars tuberalis
 type bigWig
+autoScale group
 visibility dense
 
 track H3K4me3_LPD28_ChIP_rep1
@@ -50,7 +51,7 @@ bigDataUrl H3K4me3_LPD1_ChIP_rep1.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT
 shortLabel H3K4me3 LP D1 ChIP rep1
 longLabel H3K4me3 LP Day 1 ChIP rep1 Ovine Pars tuberalis
 type bigWig
-autoScale off
+autoScale group
 visibility dense
 
 track H3K4me3_LPD28_ChIP_rep2
@@ -58,7 +59,7 @@ bigDataUrl H3K4me3_LPD1_ChIP_rep2.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT
 shortLabel H3K4me3 LP D1 ChIP rep2
 longLabel H3K4me3 LP Day 1 ChIP rep2 Ovine Pars tuberalis
 type bigWig
-autoScale off
+autoScale group
 visibility dense
 
 track H3K4me3_LP16w_ChIP_rep1
@@ -66,7 +67,7 @@ bigDataUrl H3K4me3_LP16w_ChIP_rep1.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmM
 shortLabel H3K4me3 LP 16w ChIP rep1
 longLabel H3K4me3 LP day 112 (16 weeks) ChIP rep1 Ovine Pars tuberalis
 type bigWig
-autoScale off
+autoScale group
 visibility dense
 
 track H3K4me3_LP16w_ChIP_rep2
@@ -74,7 +75,7 @@ bigDataUrl H3K4me3_LP16w_ChIP_rep2.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmM
 shortLabel H3K4me3 LP 16w ChIP rep2
 longLabel H3K4me3 LP day 112 (16 weeks) ChIP rep2 Ovine Pars tuberalis
 type bigWig
-autoScale off
+autoScale group
 visibility dense
 
 track H3K4me3_SPD1_ChIP_rep1
@@ -82,7 +83,7 @@ bigDataUrl H3K4me3_SPD1_ChIP_rep1.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT
 shortLabel H3K4me3 SP D1 ChIP rep1
 longLabel H3K4me3 SP day 1 ChIP rep1 Ovine Pars tuberalis
 type bigWig
-autoScale off
+autoScale group
 visibility dense
 
 track H3K4me3_SPD1_ChIP_rep2
@@ -90,7 +91,7 @@ bigDataUrl H3K4me3_SPD1_ChIP_rep2.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT
 shortLabel H3K4me3 SP D1 ChIP rep2
 longLabel H3K4me3 SP day 1 ChIP rep2 Ovine Pars tuberalis
 type bigWig
-autoScale off
+autoScale group
 visibility dense
 
 track H3K4me3_SPD7_ChIP_rep1
@@ -98,7 +99,7 @@ bigDataUrl H3K4me3_SPD7_ChIP_rep1.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT
 shortLabel H3K4me3 SP D7 ChIP rep1
 longLabel H3K4me3 SP day 7 ChIP rep1 Ovine Pars tuberalis
 type bigWig
-autoScale off
+autoScale group
 visibility dense
 
 track H3K4me3_SPD7_ChIP_rep2
@@ -106,7 +107,7 @@ bigDataUrl H3K4me3_SPD7_ChIP_rep2.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT
 shortLabel H3K4me3 SP D7 ChIP rep2
 longLabel H3K4me3 SP day 7 ChIP rep2 Ovine Pars tuberalis 
 type bigWig
-autoScale off
+autoScale group
 visibility dense
 
 track H3K4me3_SPD28_ChIP_rep1
@@ -114,7 +115,7 @@ bigDataUrl H3K4me3_SPD28_ChIP_rep1.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmM
 shortLabel H3K4me3 SP D28 ChIP rep1
 longLabel H3K4me3 SP day 28 ChIP rep1 Ovine Pars tuberalis 
 type bigWig
-autoScale off
+autoScale group
 visibility dense
 
 track H3K4me3_SPD28_ChIP_rep2
@@ -122,7 +123,7 @@ bigDataUrl H3K4me3_SPD28_ChIP_rep2.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmM
 shortLabel H3K4me3 SP D28 ChIP rep2
 longLabel H3K4me3 SP day 28 ChIP rep2 Ovine Pars tuberalis 
 type bigWig
-autoScale off
+autoScale group
 visibility dense
 
 track CAGE_SPD84_PT276_plus
@@ -130,7 +131,7 @@ bigDataUrl PT276_SP12.CTSS.normalized.plus.bw
 shortLabel CAGE+ SP D84 PT PT276
 longLabel CAGE plus strand SP day 84 (12 weeks) Ovine Pars tuberalis PT276
 type bigWig
-autoScale off
+autoScale group
 visibility dense
 
 track CAGE_SPD84_PT276_minus
@@ -138,7 +139,7 @@ bigDataUrl PT276_SP12.CTSS.normalized.minus.bw
 shortLabel CAGE- SP D84 PT PT276
 longLabel CAGE minus strand SP day 84 (12 weeks) Ovine Pars tuberalis PT276
 type bigWig
-autoScale off
+autoScale group
 visibility dense
 
 track CAGE_LPD84_PT266_plus
@@ -146,7 +147,7 @@ bigDataUrl PT266_LP12.CTSS.normalized.plus.bw
 shortLabel CAGE+ LP D84 PT PT266
 longLabel CAGE plus strand LP day 84 (12 weeks) Ovine Pars tuberalis PT266
 type bigWig
-autoScale off
+autoScale group
 visibility dense
 
 track CAGE_LPD84_PT266_minus
@@ -154,5 +155,5 @@ bigDataUrl PT266_LP12.CTSS.normalized.minus.bw
 shortLabel CAGE- LP D84 PT PT276
 longLabel CAGE minus strand LP day 84 (12 weeks) Ovine Pars tuberalis PT276
 type bigWig
-autoScale off
+autoScale group
 visibility dense
