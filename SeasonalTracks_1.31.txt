@@ -28,7 +28,7 @@ visibility dense
 parent H3K4me3_ChIP
 
 track H3K4me3_LPD1_ChIP_rep1
-bigDataUrl https://www.dropbox.com/s/58wpmtdpbajvrvp/H3K4me3_LPD1_ChIP_rep1.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw?dl=0
+bigDataUrl ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4289nnn/GSM4289856/suppl/GSM4289856_H3K4me3_LPD1_ChIP_rep1.trimPE.paired_bwamem_sorted_PP_Q30_sorted_rmMT_macs_noDup_narrow_0.01_BAMPE_SPMR_treat_pileup.bw
 shortLabel H3K4me3 LP D1 ChIP rep1
 longLabel H3K4me3 LP day 1 ChIP rep1 Ovine Pars tuberalis (GSM4289856)
 type bigWig
